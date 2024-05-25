@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'nasirkhan/laravel-starter',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'e207f0727f43ad5324547ff04610530f13bca41b',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -908,9 +908,9 @@
             'dev_requirement' => true,
         ),
         'nasirkhan/laravel-starter' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'e207f0727f43ad5324547ff04610530f13bca41b',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -1419,9 +1419,9 @@
             'dev_requirement' => true,
         ),
         'react/promise' => array(
-            'pretty_version' => 'v3.1.0',
-            'version' => '3.1.0.0',
-            'reference' => 'e563d55d1641de1dea9f5e84f3cccc66d2bfe02c',
+            'pretty_version' => 'v3.2.0',
+            'version' => '3.2.0.0',
+            'reference' => '8a164643313c71354582dc850b42b33fa12a4b63',
             'type' => 'library',
             'install_path' => __DIR__ . '/../react/promise',
             'aliases' => array(),
